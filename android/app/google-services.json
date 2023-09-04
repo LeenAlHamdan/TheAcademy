@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618315868505",
+    "project_id": "the-academy-1",
+    "storage_bucket": "the-academy-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618315868505:android:c3adcc73bb82802cc88448",
+        "android_client_info": {
+          "package_name": "com.leenalhamdan.the_academy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618315868505-e5tjari583h61qum8v6g5s4au6bmr5rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBktGlhbRU3tBmWbCukkSfvW0ToPPFISZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618315868505-e5tjari583h61qum8v6g5s4au6bmr5rt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

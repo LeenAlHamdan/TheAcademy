@@ -1,0 +1,6 @@
+<svg id="book-saved" xmlns="http://www.w3.org/2000/svg" width="22.204" height="22.204" viewBox="0 0 22.204 22.204">
+  <path id="Vector" d="M18.5,1.857V13.024a1.9,1.9,0,0,1-1.61,1.832l-.305.037a23.556,23.556,0,0,0-6.9,2.276,1,1,0,0,1-.888,0l-.037-.018a23.77,23.77,0,0,0-6.883-2.257l-.268-.037A1.9,1.9,0,0,1,0,13.024V1.848A1.82,1.82,0,0,1,2,.007,17.354,17.354,0,0,1,8.53,2.172l.231.139a1.025,1.025,0,0,0,.981,0l.157-.1a14.266,14.266,0,0,1,2.128-1.045V4.938l1.85-1.231,1.85,1.231V.109a7.18,7.18,0,0,1,.712-.093H16.5A1.823,1.823,0,0,1,18.5,1.857Z" transform="translate(1.85 2.463)" fill="none" stroke="#bababa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"/>
+  <path id="Vector-2" data-name="Vector" d="M0,0V13.878" transform="translate(11.102 5.079)" fill="none" stroke="#bababa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"/>
+  <path id="Vector-3" data-name="Vector" d="M3.7,0V4.829L1.85,3.6,0,4.829V1.055A18.7,18.7,0,0,1,3.7,0Z" transform="translate(13.878 2.572)" fill="none" stroke="#bababa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"/>
+  <path id="Vector-4" data-name="Vector" d="M0,0H22.2V22.2H0Z" fill="none" opacity="0"/>
+</svg>
