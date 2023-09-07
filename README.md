@@ -1,16 +1,6 @@
-# the_academy
+#	The Academy
 
-A new Flutter application.
+The Academy is mobile app to facilitating communication between trainers and students.
+##about the App?
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Academy is fully managed platform gathers everything related to the educational process in a unified application that provides services such as sorting students and trainers into groups, the possibility of conducting direct conversations, offering scientific consultations, sending various types of messages, and conducting tests for students. 
