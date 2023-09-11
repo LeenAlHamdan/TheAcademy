@@ -13,6 +13,9 @@ After installing the application, these screens will appear to the user, and acc
 Splash Screen 
 Appears to the user when running the application while loading data.
 
+<img src="https://github.com/LeenAlHamdan/TheAcademy/assets/77418575/73a7b2a2-48eb-4f42-8f06-94e5236346f1"  height="400" />
+
+
 ![Screenshot_20230811_054513_com leenalhamdan the_academy](https://github.com/LeenAlHamdan/TheAcademy/assets/77418575/73a7b2a2-48eb-4f42-8f06-94e5236346f1 | height=400 )
 Welcome Screen
 The welcome screen appears to the user when the application is first launched or when the application is opened if the user has previously logged out.
